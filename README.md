@@ -1,11 +1,14 @@
 ### Hi I'm Jo 👋
 
-I'm Jo Huang, a software engineer with a passion for developing full-stack applications and contributing to open source software. Most recently, I've been working on DataDoc, an open source dev tool that monitors endpoint health and provides real-time visualization. I spend most of my time contributing to open source softwware.
+I'm Jo Huang, a software engineer with a passion for developing full-stack applications and contributing to open source software. Most recently, I've been working on DataDoc, an open source dev tool that monitors endpoint health and provides real-time visualization.
+
+Outside of work, you can find me rock climbing, hiking, long boarding, and building cool techs! Check out what I’m building right here on GitHub.
 
 📬 Feel free to reach out!
 
 - 📊 I'm currently working on DataDoc
 - 📬 How to reach me: johuangx@gmail.com
+
 
 <!--
 **jochuang/jochuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
