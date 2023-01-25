@@ -24,7 +24,7 @@ Outside of work, you can find me rock climbing, hiking, long boarding, and build
 
 <details>
   <summary><b>Stats</b></summary>
-[![Jo's github stats](https://github-readme-stats.vercel.app/api?username=jochuang&show_icons=true&count_private=true&theme=tokyonight&hide=contribs,issues)](https://github.com/jochuang/github-readme-stats)
+[![Jo's github stats](https://github-readme-stats.vercel.app/api?username=jochuang&show_icons=true&count_private=true&theme=tokyonight&hide=stars,contribs,issues)](https://github.com/jochuang/github-readme-stats)
 </details>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jochuang.jochuang)
