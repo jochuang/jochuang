@@ -1,9 +1,9 @@
 <h2> Hi 👋 I'm Jo Huang ✨ </h2>
 
 <h4>👩‍ Full-Stack Software Engineer | Active Open Source Contributor 👩‍ </h4>
-- 📊 I'm currently working on DataDoc, an open source developer tool that provides performance monitoring and load testing for an application<br>
-- 🏞️ Outside of work, you can find me rock climbing, hiking, long boarding, or building cool techs<br>
-- 🛠️ Check out what I’m building right here on GitHub<br>
+ - I'm currently working on DataDoc, an open source developer tool that provides performance monitoring and load testing for an application<br>
+ - Outside of work, you can find me rock climbing, hiking, long boarding, or building cool techs<br>
+ - Check out what I’m building right here on GitHub<br>
 
 <h3>🔗 Connect with Me</h3>
 
@@ -23,7 +23,6 @@
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
 
 <details>
   <summary><h3>💹 Stats</h3></summary>
