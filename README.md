@@ -1,6 +1,6 @@
 <h2> Hi 👋 I'm Jo Huang ✨ </h2>
 
-<h4>👩‍ Full-Stack Software Engineer | Active Open Source Contributor 👩‍ </h4>
+<h4> 🌱 Full-Stack Software Engineer | Active Open Source Contributor 🌱 </h4>
  - I'm currently working on DataDoc, an open source developer tool that provides performance monitoring and load testing for an application<br>
  - Outside of work, you can find me rock climbing, hiking, long boarding, or building cool techs<br>
  - Check out what I’m building right here on GitHub<br>
