@@ -5,7 +5,7 @@
  - I'm passionate about designing and building scalable, performant systems, and I enjoy working with data and the cloud!<br>
  - I have built a dozen of full-stack applications using a wide range of technologies spanning from React/TypeScript on the frontend to Java or Python on the backend<br>
  - Inspired by my past experience in data center operations, I contributed to an open source developer tool, DataDoc, that provides performance monitoring and load testing for an application<br>
- - I believe data observability and incident detection are at the core of building a robust, reliable system, and a good developer tool reduces the developer setup time to make data observability more accessible to all applications<br>
+ - I believe data observability and incident detection are at the core of building a robust, reliable system, and making observability more accessible for developers to reduce setup time aligns with my values<br>
  - Outside of work, you can find me rock climbing, hiking, skiing/snowboarding, or building cool techs<br>
  - Check out what I’m building right here on GitHub<br>
 
